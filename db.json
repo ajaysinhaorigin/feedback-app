@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "text": "I am in love with you aman",
+      "rating": 10,
+      "id": 9
+    },
+    {
+      "text": "This is a simple feedback-app developed by ajay",
+      "rating": 7,
+      "id": 10
+    },
+    {
+      "id": "62cf2fa1-38b1-4ec5-859a-31f982a72c03",
+      "rating": 8,
+      "text": "hey there are you listing to me."
+    }
+  ]
+}
